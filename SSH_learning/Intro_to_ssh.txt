@@ -1,0 +1,4 @@
+This is just some notes for me in a small deepdive on how ssh works. 
+
+It might also have some scripts which showcase how it works and which commands make sense to use. 
+
